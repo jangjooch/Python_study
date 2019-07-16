@@ -1,0 +1,7 @@
+C:\Users\Jang\Desktop\algo_prac01\algo_prac01\bin\Debug\algo_prac01.exe.config
+C:\Users\Jang\Desktop\algo_prac01\algo_prac01\bin\Debug\algo_prac01.exe
+C:\Users\Jang\Desktop\algo_prac01\algo_prac01\bin\Debug\algo_prac01.pdb
+C:\Users\Jang\Desktop\algo_prac01\algo_prac01\obj\Debug\algo_prac01.csprojAssemblyReference.cache
+C:\Users\Jang\Desktop\algo_prac01\algo_prac01\obj\Debug\algo_prac01.csproj.CoreCompileInputs.cache
+C:\Users\Jang\Desktop\algo_prac01\algo_prac01\obj\Debug\algo_prac01.exe
+C:\Users\Jang\Desktop\algo_prac01\algo_prac01\obj\Debug\algo_prac01.pdb
